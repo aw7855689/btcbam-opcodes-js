@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# btcbam-opcodes-js
+The BTCBAM opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install btcbam-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('btcbam-opcodes')
 ```
