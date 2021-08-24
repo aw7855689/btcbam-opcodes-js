@@ -1,23 +1,23 @@
 {
-  "name": "qtum-opcodes",
+  "name": "btcbam-opcodes",
   "version": "1.0.0",
-  "description": "The QTUM opcodes map",
+  "description": "The BTCBAM opcodes map",
   "main": "./index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtum-opcodes-js.git"
+    "url": "git+https://github.com/aw7855689/btcbam-opcodes-js.git"
   },
   "keywords": [
-    "qtum",
+    "btcbam",
     "opcodes"
   ],
-  "author": "Qtum Weiyu",
+  "author": "Alex Walker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtum-opcodes-js/issues"
+    "url": "https://github.com/aw7855689/btcbam-opcodes-js/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtum-opcodes-js#readme"
+  "homepage": "https://github.com/aw7855689/btcbam-opcodes-js#readme"
 }
